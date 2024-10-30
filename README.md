@@ -94,8 +94,9 @@ Update configuration files to specify training parameters like learning rate, ba
 
 Training and validation loss metrics are visualized below:
 
-![Training and Validation Accuracy](Brain-Tumor-Detection/output.png)
-![Training and Validation Loss](Brain-Tumor-Detection/output1.png)
+![Training and Validation Accuracy](output.png)
+
+![Training and Validation Loss](output1.png)
 
 ## Contributing
 
