@@ -1,0 +1,16 @@
+numpy==1.21.5
+pandas==1.4.4
+tensorflow==2.10.0
+keras==2.10.0
+scikit-learn==1.0.2
+matplotlib==3.5.2
+seaborn==0.11.2
+opencv-python==4.6.0.66
+pillow==9.2.0
+h5py==3.7.0
+tqdm==4.64.1
+wandb==0.13.4
+scipy==1.9.1
+ipykernel==6.15.2
+jupyter==1.0.0
+plotly==5.9.0
